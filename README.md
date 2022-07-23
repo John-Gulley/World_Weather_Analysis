@@ -12,7 +12,7 @@
 #Creating a Travel Itinerary Map
   Using all the information gathered above, 4 cities were selected to create an Travel Itinerary route. The loc method was utilized to create DataFrames for each of the four cities. The latitude and longitude pairs from each city were found using the "to_numpy" function. These latitude-longitude pairs were used to create a direction layer map. 
   
-![Vacation_Itinerary_image](https://user-images.githubusercontent.com/102339838/180623037-caffdbc5-9b8d-44c4-9029-4d01b1247502.png)
+![Vacation_Itinerary_image](https://user-images.githubusercontent.com/102339838/180623134-12f47271-c0fd-42af-80dd-3d124fea06b4.png)
 
 Info box was created to display hotel, city, country, weather description and maximum temperature. And a marker layer was created to display this information. 
 
